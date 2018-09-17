@@ -14,7 +14,7 @@ public class JavaApplication3 {
        
        Person petelo=new Person("prisca","petelo",22); 
         
-        
+        System.out.print ("salut!");
         
         
     }
